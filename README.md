@@ -3,6 +3,7 @@
 TaskDispatcher is a multithreaded, concurrent task scheduler developed in C++ for simulating dynamic job delegation and execution in a shared-memory environment. Inspired by real-world workload management, this tool showcases synchronization, randomized decision-making, and POSIX signal handling within a multithreaded architecture.
 
 This utility is ideal for environments exploring concurrent system behaviors, such as simulations, training systems, or operating systems coursework.
+
 📘 Introduction
 
 TaskDispatcher models a parent-child concurrency pattern where a controller thread (Mom) delegates tasks to multiple worker threads (Kids) based on randomized behavioral profiles (moods). Each worker selects tasks from a shared job board using mood-driven logic and executes the assigned task, reporting completion back to the dispatcher.
