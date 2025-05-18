@@ -1,0 +1,312 @@
+Hey kids, This is Mama
+Job0
+The job value is : 32
+ it has 4 slow
+ it has 4 dirty
+ it has 4 heavy
+
+Job1
+The job value is : 32
+ it has 4 slow
+ it has 3 dirty
+ it has 5 heavy
+
+Job2
+The job value is : 20
+ it has 2 slow
+ it has 5 dirty
+ it has 5 heavy
+
+Job3
+The job value is : 6
+ it has 1 slow
+ it has 3 dirty
+ it has 3 heavy
+
+Job4
+The job value is : 24
+ it has 4 slow
+ it has 2 dirty
+ it has 4 heavy
+
+Job5
+The job value is : 5
+ it has 1 slow
+ it has 2 dirty
+ it has 3 heavy
+
+Job6
+The job value is : 32
+ it has 4 slow
+ it has 5 dirty
+ it has 3 heavy
+
+Job7
+The job value is : 15
+ it has 3 slow
+ it has 1 dirty
+ it has 4 heavy
+
+Job8
+The job value is : 6
+ it has 2 slow
+ it has 2 dirty
+ it has 1 heavy
+
+Job9
+The job value is : 6
+ it has 3 slow
+ it has 1 dirty
+ it has 1 heavy
+
+Job Table Initialized
+Kid created: Ali
+Kid created: Cory
+Kid created: Lee
+Kid created: Pat
+Signal sent to start work: Ali
+Signal sent to start work: Cory
+Signal sent to start work: Lee
+Signal sent to start work: Pat
+
+Start work Signal 10 received by consumer
+Start working: Cory
+Cory mood is: PRISSY
+
+Start work Signal 10 received by consumer
+
+Start work Signal 10 received by consumer
+
+Start work Signal 10 received by consumer
+Start working: Ali
+Start working: Pat
+Pat mood is: PRISSY
+Start working: Lee
+Ali mood is: COOPERATIVE
+Lee mood is: OVERTIRED
+Job ID:5 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 5
+Job ID:2 is completed
+Job Completed status: COMPLETE
+Job ID:9 is completed
+Adding new job at index: 2
+Job Completed status: COMPLETE
+Adding new job at index: 9
+Job ID:3 is completed
+Job Completed status: COMPLETE
+Job ID:4 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 3
+Adding new job at index: 4
+Job ID:7 is completed
+Job Completed status: COMPLETE
+Job ID:8 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 7
+Adding new job at index: 8
+Job ID:5 is completed
+Job ID:3 is completed
+Job Completed status: COMPLETE
+Job Completed status: COMPLETE
+Adding new job at index: 3
+Adding new job at index: 5
+Job ID:7 is completed
+Job Completed status: COMPLETE
+Job ID:2 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 2
+Adding new job at index: 7
+Job ID:8 is completed
+Job Completed status: COMPLETE
+Job ID:3 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 3
+Adding new job at index: 8
+Job ID:9 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 9
+Job ID:9 is completed
+Job Completed status: COMPLETE
+Job ID:7 is completed
+Job Completed status: COMPLETE
+Job ID:3 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 3
+Adding new job at index: 7
+Adding new job at index: 9
+Job ID:8 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 8
+Job ID:9 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 9
+Job ID:7 is completed
+Adding new job at index: 7
+Job Completed status: COMPLETE
+Job ID:9 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 9
+Job ID:8 is completed
+Job Completed status: COMPLETE
+Adding new job at index: 8
+------------------Kids--------------------------------
+The job value is : 6
+ it has 3 slow
+ it has 1 dirty
+ it has 1 heavy
+ was completed by Ali
+The job value is : 6
+ it has 2 slow
+ it has 2 dirty
+ it has 1 heavy
+ was completed by Ali
+The job value is : 45
+ it has 5 slow
+ it has 4 dirty
+ it has 5 heavy
+ was completed by Ali
+
+End work Signal: 3 received by consumer
+The job value is : 21
+ it has 3 slow
+ it has 2 dirty
+ it has 5 heavy
+ was completed by Ali
+The job value is : 24
+ it has 3 slow
+ it has 5 dirty
+ it has 3 heavy
+ was completed by Ali
+The job value is : 25
+ it has 5 slow
+ it has 3 dirty
+ it has 2 heavy
+ was completed by Ali
+Signal sent to stop work: Ali
+------------------Kids- End--------------------------------
+------------------Kids--------------------------------
+
+End work Signal: 3 received by consumer
+The job value is : 24
+ it has 4 slow
+ it has 2 dirty
+ it has 4 heavy
+ was completed by Cory
+The job value is : 15
+ it has 3 slow
+ it has 2 dirty
+ it has 3 heavy
+ was completed by Cory
+The job value is : 20
+ it has 5 slow
+ it has 1 dirty
+ it has 3 heavy
+ was completed by Cory
+The job value is : 15
+ it has 5 slow
+ it has 2 dirty
+ it has 1 heavy
+ was completed by Cory
+Signal sent to stop work: Cory
+------------------Kids- End--------------------------------
+------------------Kids--------------------------------
+The job value is : 20
+ it has 2 slow
+ it has 5 dirty
+ it has 5 heavy
+ was completed by Lee
+The job value is : 6
+ it has 1 slow
+ it has 3 dirty
+ it has 3 heavy
+ was completed by Lee
+The job value is : 10
+ it has 2 slow
+ it has 1 dirty
+ it has 4 heavy
+ was completed by Lee
+The job value is : 7
+ it has 1 slow
+ it has 5 dirty
+ it has 2 heavy
+ was completed by Lee
+The job value is : 12
+ it has 2 slow
+ it has 3 dirty
+ it has 3 heavy
+ was completed by Lee
+The job value is : 8
+ it has 2 slow
+ it has 2 dirty
+ it has 2 heavy
+ was completed by Lee
+Signal sent to stop work: Lee
+------------------Kids- End--------------------------------
+------------------Kids--------------------------------
+The job value is : 5
+ it has 1 slow
+ it has 2 dirty
+ it has 3 heavy
+ was completed by Pat
+The job value is : 15
+ it has 3 slow
+ it has 1 dirty
+ it has 4 heavy
+ was completed by Pat
+The job value is : 2
+ it has 1 slow
+ it has 1 dirty
+ it has 1 heavy
+ was completed by Pat
+The job value is : 21
+ it has 3 slow
+ it has 2 dirty
+ it has 5 heavy
+ was completed by Pat
+The job value is : 15
+ it has 3 slow
+ it has 1 dirty
+ it has 4 heavy
+ was completed by Pat
+The job value is : 12
+ it has 2 slow
+ it has 1 dirty
+ it has 5 heavy
+ was completed by Pat
+Signal sent to stop work: Pat
+------------------Kids- End--------------------------------
+Kid Ali joined
+
+End work Signal: 3 received by consumer
+
+End work Signal: 3 received by consumer
+Kid Cory joined
+Kid Lee joined
+Kid Pat joined
+--------------------Mama-----------------------------
+Child Pat has earned a total value of 5 on this job 5
+Child Lee has earned a total value of 20 on this job 2
+Child Ali has earned a total value of 6 on this job 9
+Child Lee has earned a total value of 6 on this job 3
+Child Cory has earned a total value of 24 on this job 4
+Child Pat has earned a total value of 15 on this job 7
+Child Ali has earned a total value of 6 on this job 8
+Child Pat has earned a total value of 2 on this job 3
+Child Lee has earned a total value of 10 on this job 5
+Child Cory has earned a total value of 15 on this job 2
+Child Lee has earned a total value of 7 on this job 7
+Child Lee has earned a total value of 12 on this job 3
+Child Pat has earned a total value of 21 on this job 8
+Child Ali has earned a total value of 45 on this job 9
+Child Pat has earned a total value of 15 on this job 3
+Child Cory has earned a total value of 20 on this job 7
+Child Lee has earned a total value of 8 on this job 9
+Child Ali has earned a total value of 21 on this job 8
+Child Ali has earned a total value of 24 on this job 9
+Child Cory has earned a total value of 15 on this job 7
+Child Pat has earned a total value of 12 on this job 9
+Child Ali has earned a total value of 25 on this job 8
+The winner for today is Ali, who had a total of 132
+
+Normal termination.
